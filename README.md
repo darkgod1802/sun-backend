@@ -1,5 +1,5 @@
 
-# Prueba técnica Mobile (Flutter)
+# Prueba técnica Backend (.Net)
 Repositorio original: https://github.com/BsolTechnicalTest/BackEnd
 
 
